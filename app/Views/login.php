@@ -49,8 +49,8 @@
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <a href="#" class="float-end mx-2">Quên mật khẩu</a>
-                    <a href="?url=user/resign" class="float-end">Đăng ký /</a>
+                    <a href="<?=APPURL?>user/forgotPassword" class="float-end mx-2">Quên mật khẩu</a>
+                    <a href="<?=APPURL?>user/resign" class="float-end">Đăng ký /</a>
                 </div>
             </div>
             <div class="col my-3">
